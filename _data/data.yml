@@ -8,10 +8,10 @@ sidebar:
 
     # Profile information
     name: Ying Yuan
-    tagline: SWE Intern @ Apple  |
-            CSE Master @ UMich |
+    tagline: SWE Intern @ Apple  |\n
+            CSE Master @ UMich |\n
             CS Undergrad @ Purdue
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: yy.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yyyuan@umich.edu
