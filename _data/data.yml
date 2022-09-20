@@ -70,9 +70,9 @@ education:
         time: Aug 2021 - May 2023 (Expected)
         details:
       - degree: "B.S. in Computer Science; GPA: 3.94/4.00;<br>
-                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                  Major GPA: 3.95/4.00;<br>
-                 Minor in Statistics;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor GPA: 4.00/4.00"
+                 Minor in Statistics;&nbsp;&nbsp;&nbsp;&nbsp;Minor GPA: 4.00/4.00"
         university: Purdue University - West Lafayette, IN
         time: Jan 2019 - May 2021
         details: |
@@ -82,7 +82,8 @@ workExperiences:
     info:
       - role: Triage Automation Intern
         time: May - Aug 2022
-        company: Apple Inc., Cupertino, CA
+        company: Apple Inc.
+        location: Cupertino, CA
         details: |
           -	Designed, implemented, and deployed a customizable, modular, and sustainable system that applies machine learning and natural language processing for bug triage automation.
           -	Implemented and evaluated supervised and unsupervised machine learning models, using vector representation of text data extracted by natural language processing techniques including Transformer;
@@ -91,6 +92,7 @@ workExperiences:
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Shanghai Shenyao Intelligent Technology Co., Ltd.
+        location: 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -102,6 +104,7 @@ workExperiences:
       - role: UI Developer
         time: 2012 - 2014
         company: Changshu Kaixi EE Co., LTD.
+        location: 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -111,7 +114,7 @@ workExperiences:
             - Bullet point
             - Bullet point
 researchExperiences:
-    title: Work Experiences
+    title: Research Experiences
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -172,7 +175,7 @@ projects:
 
 
 publications:
-    title: Publications
+    title: Publications and Patents
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
