@@ -8,10 +8,7 @@ sidebar:
 
     # Profile information
     name: Ying Yuan
-    tagline: |
-        SWE Intern @ Apple  |
-        CSE Master @ UMich |
-        CS Undergrad @ Purdue
+    tagline: "SWE Intern @ Apple  |\nCSE Master @ UMich |\nCS Undergrad @ Purdue"
     avatar: yy.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://yinnnywy.github.io/_data/CV-Ying Yuan.pdf
 
     languages:
       title: Languages
@@ -65,8 +62,8 @@ sidebar:
 education:
     title: Education
     info:
-      - university: University of Michigan – Ann Arbor, MI
-        degree: M.S. in Computer Science and Engineering
+      - degree: M.S. in Computer Science and Engineering
+        university: University of Michigan – Ann Arbor, MI
         time: Aug 2021 – May 2023 (Expected)
         details: |
             - GPA: 4.00/4.00
