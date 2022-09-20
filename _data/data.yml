@@ -8,15 +8,16 @@ sidebar:
 
     # Profile information
     name: Ying Yuan
-    tagline: SWE Intern @ Apple  |\n
-            CSE Master @ UMich |\n
-            CS Undergrad @ Purdue
+    tagline: |
+        SWE Intern @ Apple  |
+        CSE Master @ UMich |
+        CS Undergrad @ Purdue
     avatar: yy.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yyyuan@umich.edu
     phone: 773 630 5088
-    timezone: America/Cancun Timezone
+    timezone: America/Michigan Timezone
     citizenship:
     website: #do not add http://
     linkedin: ying-yuan-ba0305127
@@ -64,8 +65,8 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: M.S. in Computer Science and Engineering
-        university: University of Michigan – Ann Arbor, MI
+      - university: University of Michigan – Ann Arbor, MI
+        degree: M.S. in Computer Science and Engineering
         time: Aug 2021 – May 2023 (Expected)
         details: |
             - GPA: 4.00/4.00
