@@ -8,7 +8,10 @@ sidebar:
 
     # Profile information
     name: Ying Yuan
-    tagline: "SWE Intern @ Apple  |\nCSE Master @ UMich |\nCS Undergrad @ Purdue"
+    tagline: >
+        "SWE Intern @ Apple  |\n\n\n"
+        "CSE Master @ UMich |\n"
+        "CS Undergrad @ Purdue"
     avatar: yy.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,7 +30,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://yinnnywy.github.io/_data/CV-Ying Yuan.pdf
+    pdf: https://yinnnywy.github.io/CV-Ying Yuan.pdf
 
     languages:
       title: Languages
