@@ -3,12 +3,14 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ying Yuan
-    tagline: SWE Intern @ Apple  | CSE Master @ UMich | CS Undergrad @ Purdue
+    tagline: SWE Intern @ Apple  |
+            CSE Master @ UMich |
+            CS Undergrad @ Purdue
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -119,31 +121,24 @@ experiences:
             - Bullet point
             - Bullet point
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
+    link: "#hook"
+    intro: Deep Learning, CV | Group Project
+    details: |
+            - To solve failure in small and direction-dependent objects detection, and problem of fragmental edges in generated segmented objects, proposed two novel hybrid models, UT-Fuse and Swin-Fuse, for medical image segmentation;
+            - Implemented novel hybrid models by fusing representations from parallel CNN and Transformer branches; 
+            - Reimplemented TransFuse, ResUNet, TransUNet, SwinUNet, and UTNet as baseline models on Synpase Multi-organ dataset for comparison;
+            - UT-Fuse and Swin-Fuse outperform almost all other models in mean DICE score and mean HD95, and have stronger capability of restoring edges in generated segmented objects;
+            - UT-Fuse is able to detect small and direction-dependent objects compared to other Transformer-based models.
+    title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
+    link: "#hook"
+    intro: Deep Learning, CV | Group Project
+    details: |
+            - To solve failure in small and direction-dependent objects detection, and problem of fragmental edges in generated segmented objects, proposed two novel hybrid models, UT-Fuse and Swin-Fuse, for medical image segmentation;
+            - Implemented novel hybrid models by fusing representations from parallel CNN and Transformer branches; 
+            - Reimplemented TransFuse, ResUNet, TransUNet, SwinUNet, and UTNet as baseline models on Synpase Multi-organ dataset for comparison;
+            - UT-Fuse and Swin-Fuse outperform almost all other models in mean DICE score and mean HD95, and have stronger capability of restoring edges in generated segmented objects;
+            - UT-Fuse is able to detect small and direction-dependent objects compared to other Transformer-based models.
 
 publications:
     title: Publications
