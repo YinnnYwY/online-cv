@@ -66,13 +66,13 @@ education:
     title: Education
     info:
       - degree: M.S. in Computer Science and Engineering
-        university: University of Michigan – Ann Arbor, MI
-        time: Aug 2021 – May 2023 (Expected)
+        university: University of Michigan - Ann Arbor, MI
+        time: Aug 2021 - May 2023 (Expected)
         details: |
             - GPA: 4.00/4.00
       - degree: B.S. in Computer Science
-        university: Purdue University – West Lafayette, IN
-        time: Jan 2019 – May 2021
+        university: Purdue University - West Lafayette, IN
+        time: Jan 2019 - May 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -122,24 +122,28 @@ experiences:
             - Bullet point
             - Bullet point
 projects:
-    title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
-    link: "#hook"
-    intro: Deep Learning, CV | Group Project
-    details: |
-            - To solve failure in small and direction-dependent objects detection, and problem of fragmental edges in generated segmented objects, proposed two novel hybrid models, UT-Fuse and Swin-Fuse, for medical image segmentation;
-            - Implemented novel hybrid models by fusing representations from parallel CNN and Transformer branches; 
-            - Reimplemented TransFuse, ResUNet, TransUNet, SwinUNet, and UTNet as baseline models on Synpase Multi-organ dataset for comparison;
-            - UT-Fuse and Swin-Fuse outperform almost all other models in mean DICE score and mean HD95, and have stronger capability of restoring edges in generated segmented objects;
-            - UT-Fuse is able to detect small and direction-dependent objects compared to other Transformer-based models.
-    title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
-    link: "#hook"
-    intro: Deep Learning, CV | Group Project
-    details: |
-            - To solve failure in small and direction-dependent objects detection, and problem of fragmental edges in generated segmented objects, proposed two novel hybrid models, UT-Fuse and Swin-Fuse, for medical image segmentation;
-            - Implemented novel hybrid models by fusing representations from parallel CNN and Transformer branches; 
-            - Reimplemented TransFuse, ResUNet, TransUNet, SwinUNet, and UTNet as baseline models on Synpase Multi-organ dataset for comparison;
-            - UT-Fuse and Swin-Fuse outperform almost all other models in mean DICE score and mean HD95, and have stronger capability of restoring edges in generated segmented objects;
-            - UT-Fuse is able to detect small and direction-dependent objects compared to other Transformer-based models.
+    title: projects
+    info:
+      - title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
+        time: Jan - Apr 2022
+        link: "#hook"
+        intro: Deep Learning, CV | Group Project
+        details: |
+                - To solve failure in small and direction-dependent objects detection, and problem of fragmental edges in generated segmented objects, proposed two novel hybrid models, UT-Fuse and Swin-Fuse, for medical image segmentation;
+                - Implemented novel hybrid models by fusing representations from parallel CNN and Transformer branches; 
+                - Reimplemented TransFuse, ResUNet, TransUNet, SwinUNet, and UTNet as baseline models on Synpase Multi-organ dataset for comparison;
+                - UT-Fuse and Swin-Fuse outperform almost all other models in mean DICE score and mean HD95, and have stronger capability of restoring edges in generated segmented objects;
+                - UT-Fuse is able to detect small and direction-dependent objects compared to other Transformer-based models.
+      - title: Model-based RL with DDPG for Arbitrarily Positional Grasp
+        time: Jan - Apr 2022
+        link: "#hook"
+        intro: Deep Reinforcement Learning | Group Project
+        details: |
+                - To solve the allocation problem of computational resources due to high-dimensional continuous space and sparsely sampled data, proposed and implemented a novel reinforcement learning algorithm, Model-based MPC RL with DDPG, for arbitrarily positional reaching;
+                - Implemented DDPG and TD3 variants as model-free only baseline algorithm for comparison;
+                - Novel algorithm outperforms baseline with improved training stability and faster convergence with higher rewards;
+                - Proposed a new advanced version of our model-based RL algorithm, Model-based MPPI RL with DDPG and HER, to apply the model-based RL with the model-free algorithm in the real-time and real-world online learning.
+
 
 publications:
     title: Publications
