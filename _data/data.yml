@@ -70,8 +70,9 @@ education:
         time: Aug 2021 - May 2023 (Expected)
         details:
       - degree: "B.S. in Computer Science; GPA: 3.94/4.00;<br>
-                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major GPA: 3.95/4.00;<br>
-                 Minor in Statistics;&nbsp;&nbsp;&nbsp;Minor GPA: 4.00/4.00"
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 Major GPA: 3.95/4.00;<br>
+                 Minor in Statistics;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor GPA: 4.00/4.00"
         university: Purdue University - West Lafayette, IN
         time: Jan 2019 - May 2021
         details: |
@@ -79,24 +80,17 @@ education:
 workExperiences:
     title: Work Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Triage Automation Intern
+        time: May - Aug 2022
+        company: Apple Inc., Cupertino, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          -	Designed, implemented, and deployed a customizable, modular, and sustainable system that applies machine learning and natural language processing for bug triage automation.
+          -	Implemented and evaluated supervised and unsupervised machine learning models, using vector representation of text data extracted by natural language processing techniques including Transformer;
+          -	To ensure model reliability and to adapt to changes in real-world data over time, investigated techniques and metrics for monitoring performance of models in production and drifts in data;
+          -	Filed patent application for this bug triage automation system.
       - role: Senior Software Engineer
         time: 2014 - 2015
-        company: Google, London
+        company: Shanghai Shenyao Intelligent Technology Co., Ltd.
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,7 +101,7 @@ workExperiences:
             - Bullet point
       - role: UI Developer
         time: 2012 - 2014
-        company: Amazon, London
+        company: Changshu Kaixi EE Co., LTD.
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -139,7 +133,7 @@ projects:
     info:
       - title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
         time: Jan - Apr 2022
-        link: "#hook"
+        link: https://yinnnywy.github.io/545.pdf
         intro: Deep Learning, CV | Group Project
         details: |
                 - To solve failure in small and direction-dependent objects detection, and problem of fragmental edges in generated segmented objects, proposed two novel hybrid models, UT-Fuse and Swin-Fuse, for medical image segmentation;
@@ -149,13 +143,32 @@ projects:
                 - UT-Fuse is able to detect small and direction-dependent objects compared to other Transformer-based models.
       - title: Model-based RL with DDPG for Arbitrarily Positional Grasp
         time: Jan - Apr 2022
-        link: "#hook"
+        link: https://yinnnywy.github.io/598.pdf
         intro: Deep Reinforcement Learning | Group Project
         details: |
                 - To solve the allocation problem of computational resources due to high-dimensional continuous space and sparsely sampled data, proposed and implemented a novel reinforcement learning algorithm, Model-based MPC RL with DDPG, for arbitrarily positional reaching;
                 - Implemented DDPG and TD3 variants as model-free only baseline algorithm for comparison;
                 - Novel algorithm outperforms baseline with improved training stability and faster convergence with higher rewards;
                 - Proposed a new advanced version of our model-based RL algorithm, Model-based MPPI RL with DDPG and HER, to apply the model-based RL with the model-free algorithm in the real-time and real-world online learning.
+      - title: Automatic Abstractive Long-Span Document Summarization 
+        time: Dec - Dec 2021
+        link: https://yinnnywy.github.io/595.pdf
+        intro: Deep Learning, NLP | Group Project
+        details: |
+                -	Proposed and implemented a novel BART-based model utilizing Longformer self-attention to reduce the complexity of Transformer model to linear and maintain full sequence representation;
+                -	To solve heavy memory usage and compute requirements, adopted explicit Multitask Content Selection for inference-time content selection;
+                -	Implemented models by modifying full self-attention of BART with different attention patterns, including local self-attention and sparse self-attention, for comparison;
+                -	BART with Longformer self-attention achieves higher ROUGE-1 and ROUGE-2 score than BART with other attention patterns.
+      - title: Transformer Model for Enhancing MirrorGAN-Based Text-to-Image Generation 
+        time: Oct - Dec 2021
+        link: https://yinnnywy.github.io/592.pdf
+        intro: Deep Learning, CV | Group Project
+        details: |
+                -	Proposed a novel Transformer-and-GAN-based model for better Text-to-Image quality;
+                -	Reproduced AttnGAN and MirrorGAN as baseline models;
+                -	Adopted and implemented Fréchet Inception Distance as a new metric and other common metrics for this task;
+                -	Implemented the novel model by modifying the text-encoder of MirrorGAN with pretrained BERT model;
+                -	Compared the results qualitatively and quantitatively; comparison results shows that the novel model improves the diversity of generated images and requires less training time.
 
 
 publications:
