@@ -92,25 +92,18 @@ workExperiences:
         time: Jun - Aug 2020
         company: <b>Shanghai Shenyao Intelligent Technology Co., Ltd.</b>
         location: Shanghai, China
-        details: "<div>Project1:</div>
+        details: "<div>Project 1: Research on Applications of Data Mining and Machine Learning for iCkey</div>
                   <ul>
-                  <li>Choice A</li>
-                  <li>Choice B
-                    <ul>
-                      <li>Sub 1</li>
-                      <li>Sub 2</li>
-                    </ul>
-                  </li>
+                    <li>Collaborated with members to collect and investigate over 400 commercially and technically related articles, patents, and websites;</li>
+                    <li>Analyzed technical feasibility, possible benefits, and applicability of existing applications of data mining and machine learning for B2B to iCkey, the e-commerce for Electronics Manufacturing Services (EMS);</li>
+                    <li>Proposed new application for data mining and machine learning that self-constructed knowledge graphs for EMS and Electronic Engineering (EE);</li>
+                    <li>Delivered technical-market research report and the new application proposal to iCkey. </li>
                   </ul>
-                  <div>Project2:</div>
+                  <div>Project 2: Demonstration of the Intelligence System</div>
                   <ul>
-                  <li>Choice A</li>
-                  <li>Choice B
-                    <ul>
-                      <li>Sub 1</li>
-                      <li>Sub 2</li>
-                    </ul>
-                  </li>
+                    <li>Designed pragmatic structure of an intelligence system focusing on Question Answering System (QAS) and optimized BOM auto-generation based on the products;</li>
+                    <li>Collected professional knowledge, datasets on electronic components, and existing BOM about industrial robots to train the intelligence system;</li>
+                    <li>Constructed a QAS with anyQ open-source API and used Axure RP to create a prototype with intelligence system specifications to demonstrate applications and possible user experience to iCkey.</li>
                   </ul>"
       - role: <i>Peer ARC Scholar</i>
         time: Aug - Dec 2018
@@ -253,23 +246,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 83%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: TensorFlow, Keras, Pytorch
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
