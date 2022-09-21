@@ -66,14 +66,14 @@ education:
     info:
       - degree: |
           <b>M.S.</b> in Computer Science and Engineering; GPA: 4.00/4.00
-        university: University of Michigan - Ann Arbor, MI
+        university: <b>University of Michigan - Ann Arbor, MI</b>
         time: Aug 2021 - May 2023 (Expected)
         details:
       - degree: "<b>B.S.</b> in Computer Science; GPA: 3.94/4.00;<br>
                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                  Major GPA: 3.95/4.00;<br>
                  Minor in Statistics;&nbsp;&nbsp;&nbsp;&nbsp;Minor GPA: 4.00/4.00"
-        university: Purdue University - West Lafayette, IN
+        university: <b>Purdue University - West Lafayette, IN</b>
         time: Jan 2019 - May 2021
         details: "Honor: Graduated with distinction; Dean's List & Semester Honors for all 5 semesters"
 workExperiences:
@@ -81,7 +81,7 @@ workExperiences:
     info:
       - role: Deep Learning, NLP | <i>Triage Automation Intern</i>
         time: May - Aug 2022
-        company: Apple Inc.
+        company: <b>Apple Inc.</b>
         location: Cupertino, CA
         details: |
           -	Designed, implemented, and deployed a customizable, modular, and sustainable system that applies machine learning and natural language processing for bug triage automation.
@@ -90,21 +90,21 @@ workExperiences:
           -	Filed patent application for this bug triage automation system.
       - role: Machine Learning | <i>Algorithm Research Intern</i>
         time: Jun - Aug 2020
-        company: Shanghai Shenyao Intelligent Technology Co., Ltd.
+        company: <b>Shanghai Shenyao Intelligent Technology Co., Ltd.</b>
         location: Shanghai, China
         details: |
           Project 1: Research on Applications of Data Mining and Machine Learning for iCkey
             -	Collaborated with members to collect and investigate over 400 commercially and technically related articles, patents, and websites;
             -	Analyzed technical feasibility, possible benefits, and applicability of existing applications of data mining and machine learning for B2B to iCkey, the e-commerce for Electronics Manufacturing Services (EMS);
             -	Proposed new application for data mining and machine learning that self-constructed knowledge graphs for EMS and Electronic Engineering (EE);
-            -	Delivered technical-market research report and the new application proposal to iCkey. 
+            -	Delivered technical-market research report and the new application proposal to iCkey. <br>
           Project 2: Demonstration of the Intelligence System
             -	Designed pragmatic structure of an intelligence system focusing on Question Answering System (QAS) and optimized BOM auto-generation based on the products;
             -	Collected professional knowledge, datasets on electronic components, and existing BOM about industrial robots to train the intelligence system;
             -	Constructed a QAS with anyQ open-source API and used Axure RP to create a prototype with intelligence system specifications to demonstrate applications and possible user experience to iCkey.
       - role: <i>Peer ARC Scholar</i>
         time: Aug - Dec 2018
-        company: Illinois Institute of Technology
+        company: <b>Illinois Institute of Technology</b>
         location: Chicago, IL 
         details: |
           -	Tutored undergraduate students in subjects, including Math, Physics and Computer Science, to improve their study skills and academic performance;
@@ -112,7 +112,7 @@ workExperiences:
 
       - role: <i>Technical Assistant</i>
         time: May - Aug 2018
-        company: Changshu Kaixi EE Co., LTD.
+        company: <b>Changshu Kaixi EE Co., LTD.</b>
         location: Changshu, China 
         details: |
           -	Classified and analyzed database; designed graphic for company accessories;
@@ -125,7 +125,7 @@ researchExperiences:
     info:
       - role:  NLP | <i>Research Assistant</i>
         time: Jan - May 2022
-        topic: Argument Quality Assessment in Argument Mining
+        topic: <b>Argument Quality Assessment in Argument Mining</b>
         location: Ann Arbor, MI
         advisor: "<i>Advisor: Dr. Lu Wang, Professor at University of Michigan</i>"
         details: |
@@ -134,7 +134,7 @@ researchExperiences:
           -	Implemented a sequence pair classification model using RoBERTa as baseline model; implemented a context-aware Transformer-based argument structure prediction model; evaluated and compared two models.
       - role:  CV | <i>Research Assistant</i>
         time: July - Aug 2021
-        topic: Mobile Scanning App Realization Using GANs 
+        topic: <b>Mobile Scanning App Realization Using GANs</b>
         location: Remote Work
         advisor: "<i>Advisor: Dr. Kai Chen, Professor at SJTU & Director of the Joint Laboratory for Artificial Intelligence</i>"
         details: |
@@ -144,7 +144,7 @@ researchExperiences:
 
       - role:  Deep Learning | <i>Research Assistant</i>
         time: Jan - Jul 2020
-        topic: Sub-Cellular Localization of Long Non-Coding RNA 
+        topic: <b>Sub-Cellular Localization of Long Non-Coding RNA</b>
         location: West Lafayette, IN
         advisor: "<i>Advisor: Dr. Xiaoqian Wang, Assistant Professor at Purdue University</i>"
         details: |
@@ -155,7 +155,7 @@ researchExperiences:
 
       - role:  CV | <i>Research Assistant</i>
         time: Aug - Sep 2020
-        topic: Monocular-vision-based Hawk-Eye System for Tennis
+        topic: <b>Monocular-vision-based Hawk-Eye System for Tennis</b>
         location: Shanghai, China
         advisor: "<i>Advisor: Dr. Kai Chen, Professor at SJTU & Director of the Joint Laboratory for Artificial Intelligence</i>"
         details: |
@@ -167,7 +167,7 @@ researchExperiences:
 projects:
     title: projects
     info:
-      - title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
+      - title: <b>Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model</b>
         time: Jan - Apr 2022
         link: https://yinnnywy.github.io/545.pdf
         intro: Deep Learning, CV | <i>Group Project</i>
@@ -177,7 +177,7 @@ projects:
                 - Reimplemented TransFuse, ResUNet, TransUNet, SwinUNet, and UTNet as baseline models on Synpase Multi-organ dataset for comparison;
                 - UT-Fuse and Swin-Fuse outperform almost all other models in mean DICE score and mean HD95, and have stronger capability of restoring edges in generated segmented objects;
                 - UT-Fuse is able to detect small and direction-dependent objects compared to other Transformer-based models.
-      - title: Model-based RL with DDPG for Arbitrarily Positional Grasp
+      - title: <b>Model-based RL with DDPG for Arbitrarily Positional Grasp</b>
         time: Jan - Apr 2022
         link: https://yinnnywy.github.io/598.pdf
         intro: Deep Reinforcement Learning | <i>Group Project</i>
@@ -186,7 +186,7 @@ projects:
                 - Implemented DDPG and TD3 variants as model-free only baseline algorithm for comparison;
                 - Novel algorithm outperforms baseline with improved training stability and faster convergence with higher rewards;
                 - Proposed a new advanced version of our model-based RL algorithm, Model-based MPPI RL with DDPG and HER, to apply the model-based RL with the model-free algorithm in the real-time and real-world online learning.
-      - title: Automatic Abstractive Long-Span Document Summarization 
+      - title: <b>Automatic Abstractive Long-Span Document Summarization </b>
         time: Dec - Dec 2021
         link: https://yinnnywy.github.io/595.pdf
         intro: Deep Learning, NLP | <i>Group Project</i>
@@ -195,7 +195,7 @@ projects:
                 -	To solve heavy memory usage and compute requirements, adopted explicit Multitask Content Selection for inference-time content selection;
                 -	Implemented models by modifying full self-attention of BART with different attention patterns, including local self-attention and sparse self-attention, for comparison;
                 -	BART with Longformer self-attention achieves higher ROUGE-1 and ROUGE-2 score than BART with other attention patterns.
-      - title: Transformer Model for Enhancing MirrorGAN-Based Text-to-Image Generation 
+      - title: <b>Transformer Model for Enhancing MirrorGAN-Based Text-to-Image Generation </b>
         time: Oct - Dec 2021
         link: https://yinnnywy.github.io/592.pdf
         intro: Deep Learning, CV | <i>Group Project</i>
