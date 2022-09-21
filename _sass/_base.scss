@@ -196,11 +196,16 @@ p {
     margin-bottom: 0;
     font-weight: 500;
   }
-  .location,
   .time {
     position: absolute;
     right: 0;
     top: 0;
+    color: $text-grey;
+  }
+  .location {
+    position: absolute;
+    right: 0;
+    top: 15px;
     color: $text-grey;
   }
   .job-title,
