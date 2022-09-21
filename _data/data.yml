@@ -92,15 +92,26 @@ workExperiences:
         time: Jun - Aug 2020
         company: <b>Shanghai Shenyao Intelligent Technology Co., Ltd.</b>
         location: Shanghai, China
-        details: "<ul>
-                <li>Choice A</li>
-                <li>Choice B
+        details: "Project1:
                   <ul>
-                    <li>Sub 1</li>
-                    <li>Sub 2</li>
+                  <li>Choice A</li>
+                  <li>Choice B
+                    <ul>
+                      <li>Sub 1</li>
+                      <li>Sub 2</li>
+                    </ul>
+                  </li>
                   </ul>
-                </li>
-                </ul>"
+                  Project2:
+                  <ul>
+                  <li>Choice A</li>
+                  <li>Choice B
+                    <ul>
+                      <li>Sub 1</li>
+                      <li>Sub 2</li>
+                    </ul>
+                  </li>
+                  </ul>"
       - role: <i>Peer ARC Scholar</i>
         time: Aug - Dec 2018
         company: <b>Illinois Institute of Technology</b>
