@@ -92,7 +92,7 @@ workExperiences:
         time: Jun - Aug 2020
         company: <b>Shanghai Shenyao Intelligent Technology Co., Ltd.</b>
         location: Shanghai, China
-        details: "Project1:
+        details: "<div>Project1:</div>
                   <ul>
                   <li>Choice A</li>
                   <li>Choice B
@@ -102,7 +102,7 @@ workExperiences:
                     </ul>
                   </li>
                   </ul>
-                  Project2:
+                  <div>Project2:</div>
                   <ul>
                   <li>Choice A</li>
                   <li>Choice B
