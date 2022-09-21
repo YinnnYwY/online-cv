@@ -226,7 +226,6 @@ p {
   }
   .projects-section {
     .intro {
-      margin-bottom: 10px;
       color: $text-grey;
     }
     .item {
@@ -244,6 +243,7 @@ p {
     font-style: italic;
     color: $text-grey;
     margin-bottom: 1px;
+    text-indent: 10px;
   }
   .publications-section {
     .intro {
