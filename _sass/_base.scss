@@ -182,12 +182,8 @@ p {
       margin-bottom: 30px;
     }
   }
-  .upper-row {
-    position: relative;
-    overflow: hidden;
-    margin-bottom: 2px;
-  }
-  .lower-row {
+  .upper-row,
+  .lower-row  {
     position: relative;
     overflow: hidden;
     margin-bottom: 2px;
