@@ -14,8 +14,8 @@ sidebar:
     avatar: yy.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yyyuan@umich.edu
-    phone: 773 630 5088
+    email: yyyuan [at] umich [dot] edu
+    phone: 773 [hyphen] 630 [hyphen] 5088
     timezone: America/Michigan Timezone
     citizenship:
     website: #do not add http://
