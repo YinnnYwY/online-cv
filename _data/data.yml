@@ -92,20 +92,15 @@ workExperiences:
         time: Jun - Aug 2020
         company: <b>Shanghai Shenyao Intelligent Technology Co., Ltd.</b>
         location: Shanghai, China
-        details:
-          "Project 1: Research on Applications of Data Mining and Machine Learning for iCkey
-          <ul>
-            <li>Collaborated with members to collect and investigate over 400 commercially and technically related articles, patents, and websites;</li>
-            <li>Analyzed technical feasibility, possible benefits, and applicability of existing applications of data mining and machine learning for B2B to iCkey, the e-commerce for Electronics Manufacturing Services (EMS);</li>
-            <li>Proposed new application for data mining and machine learning that self-constructed knowledge graphs for EMS and Electronic Engineering (EE);</li>
-            <li>Delivered technical-market research report and the new application proposal to iCkey.</li>
-          </ul>
-          Project 2: Demonstration of the Intelligence System
-          <ul>
-            <li>Designed pragmatic structure of an intelligence system focusing on Question Answering System (QAS) and optimized BOM auto-generation based on the products;</li>
-            <li>Collected professional knowledge, datasets on electronic components, and existing BOM about industrial robots to train the intelligence system;</li>
-            <li>Constructed a QAS with anyQ open-source API and used Axure RP to create a prototype with intelligence system specifications to demonstrate applications and possible user experience to iCkey.</li>
-          </ul>"
+        details: "<ul>
+                <li>Choice A</li>
+                <li>Choice B
+                  <ul>
+                    <li>Sub 1</li>
+                    <li>Sub 2</li>
+                  </ul>
+                </li>
+                </ul>"
       - role: <i>Peer ARC Scholar</i>
         time: Aug - Dec 2018
         company: <b>Illinois Institute of Technology</b>
