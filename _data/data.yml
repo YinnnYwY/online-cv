@@ -65,11 +65,11 @@ education:
     title: Education
     info:
       - degree: |
-          M.S. in Computer Science and Engineering; GPA: 4.00/4.00
+          <b>M.S.</b> in Computer Science and Engineering; GPA: 4.00/4.00
         university: University of Michigan - Ann Arbor, MI
         time: Aug 2021 - May 2023 (Expected)
         details:
-      - degree: "B.S. in Computer Science; GPA: 3.94/4.00;<br>
+      - degree: "<b>B.S.</b> in Computer Science; GPA: 3.94/4.00;<br>
                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                  Major GPA: 3.95/4.00;<br>
                  Minor in Statistics;&nbsp;&nbsp;&nbsp;&nbsp;Minor GPA: 4.00/4.00"
@@ -79,7 +79,7 @@ education:
 workExperiences:
     title: Work Experiences
     info:
-      - role: Triage Automation Intern
+      - role: Deep Learning, NLP | <i>Triage Automation Intern</i>
         time: May - Aug 2022
         company: Apple Inc.
         location: Cupertino, CA
@@ -88,55 +88,89 @@ workExperiences:
           -	Implemented and evaluated supervised and unsupervised machine learning models, using vector representation of text data extracted by natural language processing techniques including Transformer;
           -	To ensure model reliability and to adapt to changes in real-world data over time, investigated techniques and metrics for monitoring performance of models in production and drifts in data;
           -	Filed patent application for this bug triage automation system.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
+      - role: Machine Learning | <i>Algorithm Research Intern</i>
+        time: Jun - Aug 2020
         company: Shanghai Shenyao Intelligent Technology Co., Ltd.
-        location: 
+        location: Shanghai, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
+          Project 1: Research on Applications of Data Mining and Machine Learning for iCkey
+            -	Collaborated with members to collect and investigate over 400 commercially and technically related articles, patents, and websites;
+            -	Analyzed technical feasibility, possible benefits, and applicability of existing applications of data mining and machine learning for B2B to iCkey, the e-commerce for Electronics Manufacturing Services (EMS);
+            -	Proposed new application for data mining and machine learning that self-constructed knowledge graphs for EMS and Electronic Engineering (EE);
+            -	Delivered technical-market research report and the new application proposal to iCkey. 
+          Project 2: Demonstration of the Intelligence System
+            -	Designed pragmatic structure of an intelligence system focusing on Question Answering System (QAS) and optimized BOM auto-generation based on the products;
+            -	Collected professional knowledge, datasets on electronic components, and existing BOM about industrial robots to train the intelligence system;
+            -	Constructed a QAS with anyQ open-source API and used Axure RP to create a prototype with intelligence system specifications to demonstrate applications and possible user experience to iCkey.
+      - role: <i>Peer ARC Scholar</i>
+        time: Aug - Dec 2018
+        company: Illinois Institute of Technology
+        location: Chicago, IL 
+        details: |
+          -	Tutored undergraduate students in subjects, including Math, Physics and Computer Science, to improve their study skills and academic performance;
+          -	Provided peer advising and academic experience to undergraduate students on academic plans.
+
+      - role: <i>Technical Assistant</i>
+        time: May - Aug 2018
         company: Changshu Kaixi EE Co., LTD.
-        location: 
+        location: Changshu, China 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          -	Classified and analyzed database; designed graphic for company accessories;
+          -	Collaborated with other staff members to reinforce pulse source products;
+          -	Applied for five national invention and utility model patents.
+      
+
 researchExperiences:
     title: Research Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role:  NLP | <i>Research Assistant</i>
+        time: Jan - May 2022
+        topic: Argument Quality Assessment in Argument Mining
+        location: Ann Arbor, MI
+        advisor: "<i>Advisor: Dr. Lu Wang, Professor at University of Michigan</i>"
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          -	Composed literature review on hundreds of papers in academia about argument mining, argument quality assessment, and existing theory and corpus in Natural Language Processing (NLP) area;
+          -	Visualized and Conducted analysis on five corpora for argument structure and argument quality investigation tasks;
+          -	Implemented a sequence pair classification model using RoBERTa as baseline model; implemented a context-aware Transformer-based argument structure prediction model; evaluated and compared two models.
+      - role:  CV | <i>Research Assistant</i>
+        time: July - Aug 2021
+        topic: Mobile Scanning App Realization Using GANs 
+        location: Remote Work
+        advisor: "<i>Advisor: Dr. Kai Chen, Professor at SJTU & Director of the Joint Laboratory for Artificial Intelligence</i>"
+        details: |
+          -	Conducted technical-market research by investigating hundreds of commercially and technically related articles and patents about launched mobile scanning applications;
+          -	Investigated references focusing on the geometry correction and optimization techniques for scanned documents;
+          -	Proposed a new Generative Adversarial Network utilizing U-Net and Fully Convolutional Network.
+
+      - role:  Deep Learning | <i>Research Assistant</i>
+        time: Jan - Jul 2020
+        topic: Sub-Cellular Localization of Long Non-Coding RNA 
+        location: West Lafayette, IN
+        advisor: "<i>Advisor: Dr. Xiaoqian Wang, Assistant Professor at Purdue University</i>"
+        details: |
+          -	Created benchmark dataset by collecting and screening lncRNA data using Python from RNALocate; obtained over 7,000 corresponding nucleic acid sequences using beautifulSoup crawler and BioPython;
+          -	Implemented and evaluated machine learning baseline models including SVM, logistic regression, and XGBoost, using extracted k-mer features with bioinformatics significance from nucleic acid sequences;
+          -	Proposed new hybrid learning methods with adaptive weights for extremely imbalanced datasets that outperform previous baseline on minority class with 10% higher weighted F1 score;
+          -	Combined adaptive weights, built, and trained models, including Siamese network, BiLSTM, CNN, and other supervised learning; evaluated models’ performance under different combinations; improved accuracy by 7%.
+
+      - role:  CV | <i>Research Assistant</i>
+        time: Aug - Sep 2020
+        topic: Monocular-vision-based Hawk-Eye System for Tennis
+        location: Shanghai, China
+        advisor: "<i>Advisor: Dr. Kai Chen, Professor at SJTU & Director of the Joint Laboratory for Artificial Intelligence</i>"
+        details: |
+          -	Conducted technical-market research by investigating multiple Hawk-Eye related companies, articles, and patents;
+          -	Proposed a new tennis amateur-friendly Hawk-Eye computer vision system based on monocular vision;
+          -	Developed system to a millimeter accuracy using OpenCV with Python; detected tennis ball and court line to help line calls, predicted drop point with group members.
+
+
 projects:
     title: projects
     info:
       - title: Abdominal Medical Images Segmentation with CNN-Transformer Hybrid Model
         time: Jan - Apr 2022
         link: https://yinnnywy.github.io/545.pdf
-        intro: Deep Learning, CV | Group Project
+        intro: Deep Learning, CV | <i>Group Project</i>
         details: |
                 - To solve failure in small and direction-dependent objects detection, and problem of fragmental edges in generated segmented objects, proposed two novel hybrid models, UT-Fuse and Swin-Fuse, for medical image segmentation;
                 - Implemented novel hybrid models by fusing representations from parallel CNN and Transformer branches; 
@@ -146,7 +180,7 @@ projects:
       - title: Model-based RL with DDPG for Arbitrarily Positional Grasp
         time: Jan - Apr 2022
         link: https://yinnnywy.github.io/598.pdf
-        intro: Deep Reinforcement Learning | Group Project
+        intro: Deep Reinforcement Learning | <i>Group Project</i>
         details: |
                 - To solve the allocation problem of computational resources due to high-dimensional continuous space and sparsely sampled data, proposed and implemented a novel reinforcement learning algorithm, Model-based MPC RL with DDPG, for arbitrarily positional reaching;
                 - Implemented DDPG and TD3 variants as model-free only baseline algorithm for comparison;
@@ -155,7 +189,7 @@ projects:
       - title: Automatic Abstractive Long-Span Document Summarization 
         time: Dec - Dec 2021
         link: https://yinnnywy.github.io/595.pdf
-        intro: Deep Learning, NLP | Group Project
+        intro: Deep Learning, NLP | <i>Group Project</i>
         details: |
                 -	Proposed and implemented a novel BART-based model utilizing Longformer self-attention to reduce the complexity of Transformer model to linear and maintain full sequence representation;
                 -	To solve heavy memory usage and compute requirements, adopted explicit Multitask Content Selection for inference-time content selection;
@@ -164,7 +198,7 @@ projects:
       - title: Transformer Model for Enhancing MirrorGAN-Based Text-to-Image Generation 
         time: Oct - Dec 2021
         link: https://yinnnywy.github.io/592.pdf
-        intro: Deep Learning, CV | Group Project
+        intro: Deep Learning, CV | <i>Group Project</i>
         details: |
                 -	Proposed a novel Transformer-and-GAN-based model for better Text-to-Image quality;
                 -	Reproduced AttnGAN and MirrorGAN as baseline models;
@@ -175,25 +209,35 @@ projects:
 
 publications:
     title: Publications and Patents
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Performance of Existing Predictor of SubCellular Localization of Long Non-Coding RNA on the New Database
+        # link: "#"
+        authors: <b>Yuan, Ying.</b>, Yuan, Bin., & Mao, Hanqiu
+        conference: <i>Proceedings of the 2020 9th International Conference on Computing and Pattern Recognition.</i> 2020.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Method and device of rapidly measuring total number of colonies in water based on concentration counting
+        # link: "#"
+        authors: <b>Yuan, Ying.</b>
+        conference: China. ZL 2014 1 0719339.7, filed December 02, 2014, and issued July 04, 2017.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Image processing method of synergistic photo-electrochemical Synthetic Aperture Radar (SAR) based on Overlapped Subaperture Algorithm
+        # link: "#"
+        authors: Liu, Xingzhao., <b>Yuan, Ying.</b>, Gao, Yesheng., & Yuan, Bin. 
+        conference: China. CN201910773690.7, filed August 21, 2019, and issued July 15, 2022.
+      
+      - title:  Electromagnetic wave-based grouting sleeve fullness detection method
+        # link: "#"
+        authors: Huang, Junqing., & <b>Yuan, Ying.</b>
+        conference: China. CN201911167671.6, filed November 25, 2019, and issued May 02, 2022.
+
+      - title: Shorted Patch Anti-metal Yagi-Uda Antenna and RFID
+        # link: "#"
+        authors: Huang, Junqing., <b>Yuan, Ying.</b>, & Yuan, Bin. 
+        conference: China. ZL 2008 1 0041251.9(CN200810041251.9), filed July 31, 2008, and issued Apr 25, 2012.
 
 skills:
     title: Skills &amp; Proficiency

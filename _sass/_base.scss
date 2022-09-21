@@ -193,6 +193,7 @@ p {
     margin-bottom: 2px;
   }
   .company,
+  .topic,
   .university {
     color: $text-color;
     font-size: 16px;
@@ -208,6 +209,7 @@ p {
     color: $text-grey;
   }
   .job-title,
+  .advisor,
   .degree {
     margin-bottom: 10px;
     color: $text-grey;
